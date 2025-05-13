@@ -83,13 +83,13 @@ I want the small dog. /complete sentence/
 The color is white and brown. /complete sentence/ /conjunction (and)/
 I think it's-
 Yes.
-Because I think it's not a home. /complex sentence/ /conjunction (because)/
+Because/conjunction/ I think it's not/negation/ a home. /complex sentence/ 
 Next I will- brought the- next I would brought the- apple. /self-correction/
 Hm.
 Lunch.
 I have lunch yet /complete sentence/
 But. /conjunction/
-At night I am so hungry. /complete sentence with adjunct/
+At night/adjunct/ I am so hungry. /complete sentence/
 Really? OK. /question/
 And/conjunction/ in the night, I am so hungry. /complete sentence/ 
 Hm, have-
