@@ -12,17 +12,12 @@ This dataset captures **linguistic interactions** between PN, K2, and K3 childre
   - Audio recordings (mp3), annotated transcripts (txt), part of speech tags (txt), tokenization (json) and artwork images (JPEG) from **6 children** (1 boy + 1 girl per grade: PN, K2, K3).
   - Participants: Children from an international kindergarten (Hong Kong), selected based on parental perceptions of "low English proficiency."
 - **Objective**: 
-  - Analyze linguistic features.
-  - Discover grammatical mistakes.
-  - Provide actionable insights to parents/teachers about hidden language strengths.
-
-### Key Features
--  Creative task design inspired by art therapy and design thinking.
--  Structured metadata: Participant age, language background, and family background.
+  - Analyze linguistic features and grammatical mistakes.
+  - Provide insights to parents/teachers about hidden language strengths.
 
 ---
 
-## Why This Project Is Useful
+## Why This dataset Is Useful
 
 ### Addressing Gaps in Research
 - **Unstructured Settings**: Most datasets focus on classroom-based interactions; this project prioritizes **low-pressure, creative environments**.
