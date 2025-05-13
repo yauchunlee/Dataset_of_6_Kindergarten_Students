@@ -9,7 +9,7 @@ This dataset captures **linguistic interactions** of PN, K2, and K3 children dur
 ### Overview
 - **Data Collection**: 
   - 15-minute guided drawing task and a "Colour Pencil Mouse-and-Cat" mini-game.
-  - Audio recordings (WAV), annotated transcripts (CSV), and artwork images (JPEG) from **6 children** (1 boy + 1 girl per grade: PN, K2, K3).
+  - Audio recordings (mp3), annotated transcripts (txt), part of speech tags (txt), tokenization (json) and artwork images (JPEG) from **6 children** (1 boy + 1 girl per grade: PN, K2, K3).
   - Participants: Children from an international Nursery & Kindergarten (Hong Kong), selected based on parental perceptions of "low English proficiency."
 - **Objective**: 
   - Analyze linguistic features.
