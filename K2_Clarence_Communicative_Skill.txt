@@ -63,7 +63,7 @@ What game? /question/
 Hm.
 I also like to color but I love blue- /complex sentence/ /conjunction (but)/
 I also.
-Like purple but I like Blue more. /complex sentence/ /conjunction (but)/
+Like purple but/conjunction/ I like Blue more. /complex sentence/ 
 C L A R E N-
 Hm.
 C E.
@@ -71,12 +71,12 @@ But- /self-correction/
 But I also- I also have a one name. /self-correction/ /cohesive device (also)/
 Chocolate.
 Chocolate.
-But I- member play with- /conjunction (but)/
+But/conjunction/ I- member play with- 
 Hm.
 Cat.
-A dog. /article(a)/
+A dog. 
 Dog
-Because she can sleep and she can turn around. /complex sentence/ /conjunctions (because, and)/
+Because/conjunctions/ she can sleep and/conjunctions/ she can turn around. /complex sentence/ 
 No.
 Hm, dog.
 I want the small dog. /complete sentence/
@@ -88,9 +88,9 @@ Next I will- brought the- next I would brought the- apple. /self-correction/
 Hm.
 Lunch.
 I have lunch yet /complete sentence/
-But. /conjunction (but)/
+But. /conjunction/
 At night I am so hungry. /complete sentence with adjunct/
 Really? OK. /question/
-And in the night, I am so hungry. /complete sentence/ /conjunction (and)/
+And/conjunction/ in the night, I am so hungry. /complete sentence/ 
 Hm, have-
-I need to put a toy away and- and eat rice. /complex sentence/ /conjunction (and)/
+I need to put a toy away and- and/conjunction/ eat rice. /complex sentence/ 
