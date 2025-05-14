@@ -1,9 +1,0 @@
-﻿/NN Rainbow/NNP ./. 
-Green/NNP ./. 
-Balloon/NN ./. 
-Chocolate/NNP ./. 
-Circles/NNS ./. 
-Whale/NNP ./. 
-Motorcycle/NNP ./. 
-Chocolate/NNP ./. 
-A/DT strawberry/NN ./. 
