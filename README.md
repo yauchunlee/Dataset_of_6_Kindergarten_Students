@@ -1,6 +1,6 @@
 # Dataset: Linguistic Features of Hong Kong Kindergarten Children in Guided Drawing Tasks
 
-This dataset captures **linguistic interactions** between PN, K2, and K3 children and an instructor during a guided drawing task and a mini-game, designed to study English language development in unstructured, creative settings. 
+This dataset captures **linguistic interactions** between PN, K2, and K3 children and an instructor during a guided drawing task and a mini-game, designed to study children English language development in unstructured, creative settings. 
 
 ---
 
